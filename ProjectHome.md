@@ -1,0 +1,1 @@
+This is a gfxdrivers plugin for Qt Embedded for WebOS.
